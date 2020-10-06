@@ -1,0 +1,186 @@
+WARNING:enmscripting.private.session:On scripting VM, URL and credentials parameters will be ignored
+has-result: True
+has-file: False
+output:
+FDN : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,RiLink=1-1
+availabilityStatus : null
+fronthaulDeviceLineRate : NOT_SET
+linkTag : 0
+operationalState : ENABLED
+riLinkId : 1-1
+riPortRef1 : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=XMU-1-1,RiPort=15
+riPortRef2 : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=RRU-1-1-1,RiPort=DATA_1
+transportType : NOT_SET
+
+FDN : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,RiLink=11-1
+availabilityStatus : null
+fronthaulDeviceLineRate : NOT_SET
+linkTag : 0
+operationalState : ENABLED
+riLinkId : 11-1
+riPortRef1 : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=XMU-1-2,RiPort=15
+riPortRef2 : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=RRU-11-1-1,RiPort=DATA_1
+transportType : NOT_SET
+
+FDN : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,RiLink=12-1
+availabilityStatus : null
+fronthaulDeviceLineRate : NOT_SET
+linkTag : 0
+operationalState : ENABLED
+riLinkId : 12-1
+riPortRef1 : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=XMU-1-2,RiPort=11
+riPortRef2 : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=RRU-12-1-1,RiPort=DATA_1
+transportType : NOT_SET
+
+FDN : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,RiLink=13-1
+availabilityStatus : null
+fronthaulDeviceLineRate : NOT_SET
+linkTag : 0
+operationalState : ENABLED
+riLinkId : 13-1
+riPortRef1 : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=XMU-1-2,RiPort=6
+riPortRef2 : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=RRU-13-1-1,RiPort=DATA_1
+transportType : NOT_SET
+
+FDN : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,RiLink=2-1
+availabilityStatus : null
+fronthaulDeviceLineRate : NOT_SET
+linkTag : 0
+operationalState : ENABLED
+riLinkId : 2-1
+riPortRef1 : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=XMU-1-1,RiPort=11
+riPortRef2 : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=RRU-2-1-1,RiPort=DATA_1
+transportType : NOT_SET
+
+FDN : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,RiLink=3-1
+availabilityStatus : null
+fronthaulDeviceLineRate : NOT_SET
+linkTag : 0
+operationalState : ENABLED
+riLinkId : 3-1
+riPortRef1 : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=XMU-1-1,RiPort=6
+riPortRef2 : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=RRU-3-1-1,RiPort=DATA_1
+transportType : NOT_SET
+
+FDN : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,RiLink=4-1
+availabilityStatus : null
+fronthaulDeviceLineRate : NOT_SET
+linkTag : 0
+operationalState : ENABLED
+riLinkId : 4-1
+riPortRef1 : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=XMU-1-1,RiPort=16
+riPortRef2 : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=RRU-4-1-1,RiPort=DATA_1
+transportType : NOT_SET
+
+FDN : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,RiLink=5-1
+availabilityStatus : null
+fronthaulDeviceLineRate : NOT_SET
+linkTag : 0
+operationalState : ENABLED
+riLinkId : 5-1
+riPortRef1 : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=XMU-1-1,RiPort=12
+riPortRef2 : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=RRU-5-1-1,RiPort=DATA_1
+transportType : NOT_SET
+
+FDN : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,RiLink=6-1
+availabilityStatus : null
+fronthaulDeviceLineRate : NOT_SET
+linkTag : 0
+operationalState : ENABLED
+riLinkId : 6-1
+riPortRef1 : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=XMU-1-1,RiPort=7
+riPortRef2 : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=RRU-6-1-1,RiPort=DATA_1
+transportType : NOT_SET
+
+FDN : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,RiLink=7-1
+availabilityStatus : null
+fronthaulDeviceLineRate : NOT_SET
+linkTag : 0
+operationalState : ENABLED
+riLinkId : 7-1
+riPortRef1 : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=XMU-1-2,RiPort=16
+riPortRef2 : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=RRU-7-1-1,RiPort=DATA_2
+transportType : NOT_SET
+
+FDN : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,RiLink=8-1
+availabilityStatus : null
+fronthaulDeviceLineRate : NOT_SET
+linkTag : 0
+operationalState : ENABLED
+riLinkId : 8-1
+riPortRef1 : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=XMU-1-2,RiPort=12
+riPortRef2 : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=RRU-8-1-1,RiPort=DATA_2
+transportType : NOT_SET
+
+FDN : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,RiLink=9-1
+availabilityStatus : null
+fronthaulDeviceLineRate : NOT_SET
+linkTag : 0
+operationalState : ENABLED
+riLinkId : 9-1
+riPortRef1 : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=XMU-1-2,RiPort=7
+riPortRef2 : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=RRU-9-1-1,RiPort=DATA_2
+transportType : NOT_SET
+
+FDN : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,RiLink=XMU-1-1-1
+availabilityStatus : null
+fronthaulDeviceLineRate : NOT_SET
+linkTag : 0
+operationalState : ENABLED
+riLinkId : XMU-1-1-1
+riPortRef1 : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=BB-1,RiPort=A
+riPortRef2 : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=XMU-1-1,RiPort=1
+transportType : NOT_SET
+
+FDN : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,RiLink=XMU-1-1-2
+availabilityStatus : null
+fronthaulDeviceLineRate : NOT_SET
+linkTag : 0
+operationalState : ENABLED
+riLinkId : XMU-1-1-2
+riPortRef1 : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=BB-1,RiPort=B
+riPortRef2 : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=XMU-1-1,RiPort=2
+transportType : NOT_SET
+
+FDN : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,RiLink=XMU-1-1-3
+availabilityStatus : null
+fronthaulDeviceLineRate : NOT_SET
+linkTag : 0
+operationalState : ENABLED
+riLinkId : XMU-1-1-3
+riPortRef1 : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=BB-1,RiPort=C
+riPortRef2 : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=XMU-1-1,RiPort=3
+transportType : NOT_SET
+
+FDN : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,RiLink=XMU-1-2-1
+availabilityStatus : null
+fronthaulDeviceLineRate : NOT_SET
+linkTag : 0
+operationalState : ENABLED
+riLinkId : XMU-1-2-1
+riPortRef1 : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=BB-1,RiPort=D
+riPortRef2 : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=XMU-1-2,RiPort=1
+transportType : NOT_SET
+
+FDN : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,RiLink=XMU-1-2-2
+availabilityStatus : null
+fronthaulDeviceLineRate : NOT_SET
+linkTag : 0
+operationalState : ENABLED
+riLinkId : XMU-1-2-2
+riPortRef1 : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=BB-1,RiPort=E
+riPortRef2 : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=XMU-1-2,RiPort=2
+transportType : NOT_SET
+
+FDN : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,RiLink=XMU-1-2-3
+availabilityStatus : null
+fronthaulDeviceLineRate : NOT_SET
+linkTag : 0
+operationalState : ENABLED
+riLinkId : XMU-1-2-3
+riPortRef1 : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=BB-1,RiPort=F
+riPortRef2 : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=XMU-1-2,RiPort=3
+transportType : NOT_SET
+
+
+18 instance(s)

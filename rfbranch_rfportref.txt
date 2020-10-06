@@ -1,0 +1,114 @@
+WARNING:enmscripting.private.session:On scripting VM, URL and credentials parameters will be ignored
+has-result: True
+has-file: False
+output:
+FDN : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,AntennaUnitGroup=1-1,RfBranch=1
+rfPortRef : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=RRU-1-1-1,RfPort=A
+
+FDN : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,AntennaUnitGroup=1-1,RfBranch=2
+rfPortRef : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=RRU-1-1-1,RfPort=B
+
+FDN : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,AntennaUnitGroup=1-1,RfBranch=3
+rfPortRef : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=RRU-1-1-1,RfPort=C
+
+FDN : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,AntennaUnitGroup=1-1,RfBranch=4
+rfPortRef : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=RRU-1-1-1,RfPort=D
+
+FDN : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,AntennaUnitGroup=11-1,RfBranch=1
+rfPortRef : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=RRU-11-1-1,RfPort=A
+
+FDN : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,AntennaUnitGroup=11-1,RfBranch=2
+rfPortRef : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=RRU-11-1-1,RfPort=B
+
+FDN : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,AntennaUnitGroup=11-1,RfBranch=3
+rfPortRef : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=RRU-11-1-1,RfPort=C
+
+FDN : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,AntennaUnitGroup=11-1,RfBranch=4
+rfPortRef : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=RRU-11-1-1,RfPort=D
+
+FDN : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,AntennaUnitGroup=12-1,RfBranch=1
+rfPortRef : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=RRU-12-1-1,RfPort=A
+
+FDN : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,AntennaUnitGroup=12-1,RfBranch=2
+rfPortRef : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=RRU-12-1-1,RfPort=B
+
+FDN : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,AntennaUnitGroup=12-1,RfBranch=3
+rfPortRef : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=RRU-12-1-1,RfPort=C
+
+FDN : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,AntennaUnitGroup=12-1,RfBranch=4
+rfPortRef : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=RRU-12-1-1,RfPort=D
+
+FDN : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,AntennaUnitGroup=13-1,RfBranch=1
+rfPortRef : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=RRU-13-1-1,RfPort=A
+
+FDN : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,AntennaUnitGroup=13-1,RfBranch=2
+rfPortRef : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=RRU-13-1-1,RfPort=B
+
+FDN : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,AntennaUnitGroup=13-1,RfBranch=3
+rfPortRef : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=RRU-13-1-1,RfPort=C
+
+FDN : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,AntennaUnitGroup=13-1,RfBranch=4
+rfPortRef : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=RRU-13-1-1,RfPort=D
+
+FDN : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,AntennaUnitGroup=2-1,RfBranch=1
+rfPortRef : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=RRU-2-1-1,RfPort=A
+
+FDN : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,AntennaUnitGroup=2-1,RfBranch=2
+rfPortRef : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=RRU-2-1-1,RfPort=B
+
+FDN : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,AntennaUnitGroup=2-1,RfBranch=3
+rfPortRef : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=RRU-2-1-1,RfPort=C
+
+FDN : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,AntennaUnitGroup=2-1,RfBranch=4
+rfPortRef : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=RRU-2-1-1,RfPort=D
+
+FDN : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,AntennaUnitGroup=3-1,RfBranch=1
+rfPortRef : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=RRU-3-1-1,RfPort=A
+
+FDN : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,AntennaUnitGroup=3-1,RfBranch=2
+rfPortRef : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=RRU-3-1-1,RfPort=B
+
+FDN : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,AntennaUnitGroup=3-1,RfBranch=3
+rfPortRef : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=RRU-3-1-1,RfPort=C
+
+FDN : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,AntennaUnitGroup=3-1,RfBranch=4
+rfPortRef : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=RRU-3-1-1,RfPort=D
+
+FDN : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,AntennaUnitGroup=4-1,RfBranch=1
+rfPortRef : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=RRU-4-1-1,RfPort=A
+
+FDN : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,AntennaUnitGroup=4-1,RfBranch=2
+rfPortRef : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=RRU-4-1-1,RfPort=B
+
+FDN : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,AntennaUnitGroup=5-1,RfBranch=1
+rfPortRef : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=RRU-5-1-1,RfPort=A
+
+FDN : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,AntennaUnitGroup=5-1,RfBranch=2
+rfPortRef : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=RRU-5-1-1,RfPort=B
+
+FDN : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,AntennaUnitGroup=6-1,RfBranch=1
+rfPortRef : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=RRU-6-1-1,RfPort=A
+
+FDN : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,AntennaUnitGroup=6-1,RfBranch=2
+rfPortRef : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=RRU-6-1-1,RfPort=B
+
+FDN : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,AntennaUnitGroup=7-1,RfBranch=1
+rfPortRef : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=RRU-7-1-1,RfPort=A
+
+FDN : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,AntennaUnitGroup=7-1,RfBranch=2
+rfPortRef : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=RRU-7-1-1,RfPort=B
+
+FDN : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,AntennaUnitGroup=8-1,RfBranch=1
+rfPortRef : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=RRU-8-1-1,RfPort=A
+
+FDN : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,AntennaUnitGroup=8-1,RfBranch=2
+rfPortRef : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=RRU-8-1-1,RfPort=B
+
+FDN : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,AntennaUnitGroup=9-1,RfBranch=1
+rfPortRef : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=RRU-9-1-1,RfPort=A
+
+FDN : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,AntennaUnitGroup=9-1,RfBranch=2
+rfPortRef : SubNetwork=ONRM_ROOT_MO,SubNetwork=ENB_BUKIT_TIMAH,MeContext=ENB_732017_Bukit_Timah_Shopping_Centre,ManagedElement=ENB_732017_Bukit_Timah_Shopping_Centre,Equipment=1,FieldReplaceableUnit=RRU-9-1-1,RfPort=B
+
+
+36 instance(s)
